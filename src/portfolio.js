@@ -576,7 +576,7 @@ const experience = {
           title: "Mini Project (Android)",
           company: "Kotlin, NodeJs, MongoDB",
           //company_url: "https://legatohealthtech.com/",
-          logo_path: "legato_logo.png",
+          logo_path: "Kotlin.jpg",
           duration: "02/2023 - 03/2023",
           //location: "Hyderabad, Telangana",
           description:
@@ -587,7 +587,7 @@ const experience = {
           title: "Mini Projet (IOS)",
           company: "Swift (SwiftUI,Storyboard), NodeJs, MongoDB",
           //company_url: "https://www.linkedin.com/company/muffito-inc/about/",
-          logo_path: "muffito_logo.png",
+          logo_path: "Swift.png",
           duration: "04/2023 - 05/2023",
           //location: "Pune, Maharashtra",
           description:
@@ -598,7 +598,7 @@ const experience = {
           title: "Education platform",
           company: "Angular , ReactJs , NodeJs, MongoDB",
           //company_url: "https://www.linkedin.com/company/freecopy/about/",
-          logo_path: "freecopy_logo.png",
+          logo_path: "Angular.jpg",
           duration: "Nov 2017 - Dec 2017",
           //location: "Ahmedabad, Gujarat",
           description:
@@ -614,7 +614,7 @@ const experience = {
           title: "Employee management platform",
           company: "National Informatics Center (CNI)",
           company_url: "http://www.cni.tn/index.php/fr/?view=page&id=44",
-          logo_path: "tiktok_logo.png",
+          logo_path: "cni.png",
           duration: "06/2022 - 07/2022",
           location: "Belhassen Ben Chaabane, Tunis",
           description:
@@ -625,7 +625,7 @@ const experience = {
           title: "Mobile delivery App",
           company: "E-Build",
           company_url: "https://www.e-build.tn/",
-          logo_path: "delhivery_logo.png",
+          logo_path: "EBuild.png",
           duration: "06/2023 - 09/2023",
           location: "Work From Home",
           description:
@@ -633,10 +633,10 @@ const experience = {
           color: "#ee3c26",
         },
         {
-          title: "Blue Jet Engeneering",
-          company: "Intel Indexer LLC",
+          title: "Mobile agricultural App",
+          company: "Blue Jet Engeneering",
           company_url: "https://www.bluejetengineering.com/#/",
-          logo_path: "intel_logo.jpg",
+          logo_path: "BlueJet.png",
           duration: "05/2024 ",
           location: "Tunis - Lac1",
           description:
