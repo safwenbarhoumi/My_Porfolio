@@ -11,44 +11,44 @@ const seo = {
   description:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Safwen Barhoumi  Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "http://SafwenBarhoumi .com/",
   },
 };
 
 //Home Page
 const greeting = {
-  title: "Ashutosh Hathidara",
+  title: "Safwen Barhoumi",
   logo_name: "AshutoshHathidara",
-  nickname: "layman_brother",
+  nickname: "Full stack mobile developer",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    " Hello, I'm Safwen Barhoumi, a 24-year-old in my fifth year of engineering studies at ESPRIT, focusing on web and mobile development. I enjoy combining technical expertise with creativity to create digital solutions. Let's connect to create and improve the dynamic world of web and mobile development ! ",
   resumeLink:
-    "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "https://github.com/ashutosh1919",
+    "https://drive.google.com/file/d/1VnRj5xEb-X4Di0orn2DhYhXBCsQ4fwC_/view?usp=sharing",
+  portfolio_repository: "https://github.com/safwenbarhoumi",
+  githubProfile: "https://github.com/safwenbarhoumi",
 };
 
 const socialMediaLinks = [
   /* Your Social Media Link */
   // github: "https://github.com/ashutosh1919",
   // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
-  // gmail: "ashutoshhathidara98@gmail.com",
-  // gitlab: "https://gitlab.com/ashutoshhathidara98",
+  // gmail: "SafwenBarhoumi 98@gmail.com",
+  // gitlab: "https://gitlab.com/SafwenBarhoumi 98",
   // facebook: "https://www.facebook.com/laymanbrother.19/",
   // twitter: "https://twitter.com/ashutosh_1919",
   // instagram: "https://www.instagram.com/layman_brother/"
 
   {
     name: "Github",
-    link: "https://github.com/ashutosh1919",
+    link: "https://github.com/safwenbarhoumi",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/ashutosh1919/",
+    link: "https://www.linkedin.com/in/safwen-barhoumi/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
@@ -60,25 +60,25 @@ const socialMediaLinks = [
   },
   {
     name: "Gmail",
-    link: "mailto:ashutoshhathidara98@gmail.com",
+    link: "mailto:SafwenBarhoumi 98@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
-  {
+  /* {
     name: "X-Twitter",
     link: "https://twitter.com/ashutosh_1919",
     fontAwesomeIcon: "fa-x-twitter", // Reference https://fontawesome.com/icons/x-twitter?f=brands&s=solid
     backgroundColor: "#000000", // Reference https://simpleicons.org/?q=x
-  },
+  }, */
   {
     name: "Facebook",
-    link: "https://www.facebook.com/laymanbrother.19/",
+    link: "https://www.facebook.com/profile.php?id=100004156489424",
     fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
     backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
   },
   {
     name: "Instagram",
-    link: "https://www.instagram.com/layman_brother/",
+    link: "https://www.instagram.com/safwenbarhoumi/",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
@@ -87,12 +87,12 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Data Science & AI",
+      title: "Mobile Development",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+        "⚡ Building seamless cross-platform mobile apps with Flutter for iOS and Android.",
+        "⚡  Crafting feature-rich Android apps with Kotlin, leveraging the latest advancements.",
+        "⚡  Proficient in iOS development with Swift, utilizing both storyboard and SwiftUI for intuitive interfaces.",
       ],
       softwareSkills: [
         {
@@ -132,12 +132,12 @@ const skills = {
       ],
     },
     {
-      title: "Full Stack Development",
+      title: "Web Develpment",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Building interactive websites with Angular for a dynamic user experience.",
+        "⚡ Creating engaging and responsive web applications using React.",
+        "⚡ Crafting visually appealing and structured websites with HTML5 and CSS3.",
       ],
       softwareSkills: [
         {
@@ -214,13 +214,13 @@ const skills = {
       ],
     },
     {
-      title: "Cloud Infra-Architecture",
+      title: "Backend develpment",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+        "⚡ Using Node.js to handle server-side logic for efficient and scalable web applications.",
+        "⚡ Developing powerful and streamlined backend systems with Spring Boot.",
+        "⚡ Leveraging Firebase for a quick and flexible backend solution for web and mobile apps.",
+        //"⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
       ],
       softwareSkills: [
         {
@@ -277,6 +277,45 @@ const skills = {
           fontAwesomeClassname: "simple-icons:kubernetes",
           style: {
             color: "#326CE5",
+          },
+        },
+      ],
+    },
+    {
+      title: "DevOps",
+      fileName: "DesignImg",
+      skills: [
+        "⚡ Streamlining software deployment with Docker for consistent and portable applications.",
+        "⚡ Automating and managing the continuous integration and delivery process with Jenkins.",
+        "⚡ Ensuring code quality and security with SonarQube for efficient development practices.",
+      ],
+      softwareSkills: [
+        {
+          skillName: "Adobe XD",
+          fontAwesomeClassname: "simple-icons:adobexd",
+          style: {
+            color: "#FF2BC2",
+          },
+        },
+        {
+          skillName: "Figma",
+          fontAwesomeClassname: "simple-icons:figma",
+          style: {
+            color: "#F24E1E",
+          },
+        },
+        {
+          skillName: "Adobe Illustrator",
+          fontAwesomeClassname: "simple-icons:adobeillustrator",
+          style: {
+            color: "#FF7C00",
+          },
+        },
+        {
+          skillName: "Inkscape",
+          fontAwesomeClassname: "simple-icons:inkscape",
+          style: {
+            color: "#000000",
           },
         },
       ],
@@ -380,37 +419,37 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Indian Institute of Information Technology Kurnool",
-      subtitle: "B.Tech. in Computer Engineering",
-      logo_path: "iiitk_logo.png",
-      alt_name: "IIITDM Kurnool",
-      duration: "2016 - 2020",
+      title: "Higher Institute of Technological Studies of Kairouan",
+      subtitle: "Industrial automation and IT",
+      logo_path: "IsetKr.png",
+      alt_name: "Iset Kairouan",
+      duration: "2019 - 2021",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "⚡ I've studied important subjects like Data Structures, Algorithms, and more, honing my problem-solving skills.",
+        "⚡ I explored advanced areas such as Deep Learning, Data Science, Cloud Computing, and Full Stack Development in additional courses.",
+        "⚡ Skilled in problem-solving, particularly in embedded systems like Arduino, and proficient in programming languages like C++ and Python.",
       ],
-      website_link: "http://iiitk.ac.in",
+      website_link: "http://www.isetkr.rnu.tn/new/",
     },
     {
-      title: "Indiana University Bloomington",
-      subtitle: "M.S. in Computer Science",
-      logo_path: "iu_logo.png",
-      alt_name: "Indiana University Bloomington",
-      duration: "2021 - 2023",
+      title: "ESPRIT Private Higher School of Engineering and Technology",
+      subtitle: "Full Stack Develpment",
+      logo_path: "Esprit.jpg",
+      alt_name: "Esprit",
+      duration: "2022 - 2024",
       descriptions: [
-        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
-        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
-        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
+        "⚡ Skilled in making user interfaces with Flutter, Kotlin, iOS, Angular, and Swift. Also, good at using Node.js, Spring Boot, and .NET for behind-the-scenes work.",
+        "⚡ Skilled in Back-end with Node.js, Spring Boot, and .NET. Well-versed in integration, deployment, and optimizing project architecture.",
+        "⚡ Simplifying the process of deploying applications to ensure efficient and smooth launches.",
       ],
-      website_link: "https://www.indiana.edu/",
+      website_link: "https://esprit.tn/",
     },
   ],
 };
 
 const certifications = {
   certifications: [
-    {
+    /* {
       title: "Machine Learning",
       subtitle: "- Andrew Ng",
       logo_path: "stanford_logo.png",
@@ -517,51 +556,51 @@ const certifications = {
         "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
       alt_name: "GCP",
       color_code: "#4285F499",
-    },
+    }, */
   ],
 };
 
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Work, Internship and Volunteership",
+  subtitle: "Projects, Internships and Volunteerships",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I've worked on various web and mobile development projects, enjoying my time in university, startups, and companies. Even now, I'm still having fun learning and getting better at what I do.",
   header_image_path: "experience.svg",
   sections: [
     {
-      title: "Work",
+      title: "Projects",
       work: true,
       experiences: [
         {
-          title: "Associate AI Engineer",
-          company: "Legato Health Technology",
-          company_url: "https://legatohealthtech.com/",
+          title: "Mini Project (Android)",
+          company: "Kotlin, NodeJs, MongoDB",
+          //company_url: "https://legatohealthtech.com/",
           logo_path: "legato_logo.png",
-          duration: "June 2020 - Aug 2021",
-          location: "Hyderabad, Telangana",
+          duration: "02/2023 - 03/2023",
+          //location: "Hyderabad, Telangana",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+            "This mobile application, designed for Android, is developed using Kotlin and Node.js. It serves as a specialized platform for exploring the intricacies of the blockchain hub. Users can actively participate in discussions, fostering interaction and engagement within the community.",
           color: "#0879bf",
         },
         {
-          title: "Android and ML Developer",
-          company: "Muffito Incorporation",
-          company_url: "https://www.linkedin.com/company/muffito-inc/about/",
+          title: "Mini Projet (IOS)",
+          company: "Swift (SwiftUI,Storyboard), NodeJs, MongoDB",
+          //company_url: "https://www.linkedin.com/company/muffito-inc/about/",
           logo_path: "muffito_logo.png",
-          duration: "May 2018 - Oct 2018",
-          location: "Pune, Maharashtra",
+          duration: "04/2023 - 05/2023",
+          //location: "Pune, Maharashtra",
           description:
-            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+            "It's an iOS mobile application developed in Swift and Node.js, utilizing both Storyboard and SwiftUI interfaces. This application is a platform dedicated to learning about the blockchain hub, offering users the ability to interact and engage in discussions with each other. It also provides several features such as messaging, facial recognition (Face ID), light/dark theme, mapping (MapKit), animations, and multi-language internationalization (Arabic, French, and English)",
           color: "#9b1578",
         },
         {
-          title: "Android Developer",
-          company: "FreeCopy Pvt. Ltd.",
-          company_url: "https://www.linkedin.com/company/freecopy/about/",
+          title: "Education platform",
+          company: "Angular , ReactJs , NodeJs, MongoDB",
+          //company_url: "https://www.linkedin.com/company/freecopy/about/",
           logo_path: "freecopy_logo.png",
           duration: "Nov 2017 - Dec 2017",
-          location: "Ahmedabad, Gujarat",
+          //location: "Ahmedabad, Gujarat",
           description:
             "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
           color: "#fc1f20",
@@ -572,42 +611,41 @@ const experience = {
       title: "Internships",
       experiences: [
         {
-          title: "Machine Learning Intern",
-          company: "TikTok Inc.",
-          company_url: "https://www.tiktok.com/en/",
+          title: "Employee management platform",
+          company: "National Informatics Center (CNI)",
+          company_url: "http://www.cni.tn/index.php/fr/?view=page&id=44",
           logo_path: "tiktok_logo.png",
-          duration: "May 2022 - Aug 2022",
-          location: "San Francisco, USA",
+          duration: "06/2022 - 07/2022",
+          location: "Belhassen Ben Chaabane, Tunis",
           description:
-            "Building new features on the backend recommendation system, specifically ranking algorithms for Ads that touch hundreds of millions of people around the world. Improving online and offline content ranking algorithms by performing hard sample data replays for training steps.",
+            "I have developed an employee management platform that facilitates the registration of employees. Additionally, the platform incorporates an administrative service for overseeing and controlling various aspects such as employee addition, updates, deletions, and the integration of additional services. \n I possess experience working with HTML5, CSS3, JavaScript, and PHP.",
           color: "#000000",
         },
         {
-          title: "Data Science Research Intern",
-          company: "Delhivery Pvt. Ltd.",
-          company_url: "https://www.delhivery.com/",
+          title: "Mobile delivery App",
+          company: "E-Build",
+          company_url: "https://www.e-build.tn/",
           logo_path: "delhivery_logo.png",
-          duration: "May 2019 - Sept 2019",
-          location: "Gurgaon, Haryana",
+          duration: "06/2023 - 09/2023",
+          location: "Work From Home",
           description:
-            "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
+            "c'est une application de livraison développé par flutter . L'application permettait aux livreurs de gérer et de livrer des colis répertoriés dans des feuilles de route, avec des fonctionnalités telles que la recherche de colis par code-barres, des filtres de calendrier, une chronologie des colis, une interface de ramassage, des diagrammes circulaires pour visualiser les données des colis, et la possibilité de modifier les informations du profil utilisateur. L'application comprenait également un scanner pour les codes QR et les codes-barres. I possess experience working with Flutter, SpringBoot, Xampp , Docker",
           color: "#ee3c26",
         },
         {
-          title: "Data Science Intern",
+          title: "Blue Jet Engeneering",
           company: "Intel Indexer LLC",
-          company_url:
-            "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
+          company_url: "https://www.bluejetengineering.com/#/",
           logo_path: "intel_logo.jpg",
-          duration: "Nov 2018 - Dec 2018",
-          location: "Work From Home",
+          duration: "05/2024 ",
+          location: "Tunis - Lac1",
           description:
-            "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
+            "I designed and developed a mobile application tailored for agriculture, specifically targeting farmers and farm management. This application empowers users to exercise control over various electrical components within the farm, including sensors, valves, and walls, through a user-friendly interface. I possess experience working with Flutter, NodeJs, Docker and CI/CD",
           color: "#0071C5",
         },
       ],
     },
-    {
+    /* {
       title: "Volunteerships",
       experiences: [
         {
@@ -667,7 +705,7 @@ const experience = {
           color: "#181717",
         },
       ],
-    },
+    }, */
   ],
 };
 
@@ -675,7 +713,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "I use modern tools for web and mobile development. My favorite part is creating and deploying Data Science projects on the web using cloud technology.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -688,7 +726,7 @@ const publicationsHeader = {
 
 const publications = {
   data: [
-    {
+    /* {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
       name: "Artificial Intelligence Paper",
       createdAt: "2020-03-06T16:26:54Z",
@@ -727,7 +765,7 @@ const publications = {
       description: "Paper Written on Artificial Intelligence published in xyz ",
       url:
         "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
+    }, */
   ],
 };
 
@@ -743,7 +781,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://blogs.ashutoshhathidara.com/",
+    link: "https://blogs.SafwenBarhoumi .com/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
