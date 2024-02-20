@@ -9,16 +9,8 @@
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "Flutter",
+          "iconifyClass": "logos:flutter"
         },
         {
           "name": "Dockerfile",
@@ -35,34 +27,34 @@
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "Flutter",
+          "iconifyClass": "logos:flutter"
+        },
+        {
+          "name": "Firebase",
+          "iconifyClass": "logos:firebase"
         }
       ]
     },
     {
       "id": "R_kgDOG0_8uQ",
       "name": "Education Platform",
-      "createdAt": "2023-03-11T14:50:20Z",
+      "createdAt": "2023-03",
       "url": "https://github.com/safwenbarhoumi/PIM_SIM?tab=readme-ov-file",
       "description": "This platform has lots of tools to help teenagers learn programming. It includes an editor, meetings, chat, courses, and more.",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "Angular",
+          "iconifyClass": "logos:angular"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "ReactJS",
+          "iconifyClass": "logos:react"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "Node.js",
+          "iconifyClass": "logos:nodejs"
         }
       ]
     },
@@ -75,8 +67,20 @@
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "HTML5",
+          "iconifyClass": "logos:html-5"
+        },
+        {
+          "name": "CSS3",
+          "iconifyClass": "logos:css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos:javascript"
+        },
+        {
+          "name": "PHP",
+          "iconifyClass": "logos:php"
         }
       ]
     },
@@ -89,8 +93,12 @@
       "isFork": false,
       "languages": [
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "Swift",
+          "iconifyClass": "logos:swift"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "logos:nodejs"
         }
       ]
     },
@@ -103,12 +111,12 @@
       "isFork": false,
       "languages": [
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "Kotlin",
+          "iconifyClass": "logos:kotlin"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "Node.js",
+          "iconifyClass": "logos:nodejs"
         }
       ]
     }

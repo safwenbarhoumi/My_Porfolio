@@ -96,39 +96,30 @@ const skills = {
       ],
       softwareSkills: [
         {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
+          skillName: "Flutter",
+          fontAwesomeClassname: "logos-flutter",
           style: {
             backgroundColor: "transparent",
           },
         },
         {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
-          style: {
-            backgroundColor: "white",
-            color: "#D00000",
-          },
-        },
-        {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
+          skillName: "Kotlin",
+          fontAwesomeClassname: "logos-kotlin",
           style: {
             backgroundColor: "transparent",
           },
         },
         {
-          skillName: "Python",
-          fontAwesomeClassname: "ion-logo-python",
+          skillName: "Swift",
+          fontAwesomeClassname: "logos-swift",
           style: {
             backgroundColor: "transparent",
-            color: "#3776AB",
           },
         },
-        {
+        /* {
           skillName: "Deeplearning",
           imageSrc: "deeplearning_ai_logo.png",
-        },
+        }, */
       ],
     },
     {
@@ -155,13 +146,6 @@ const skills = {
           },
         },
         {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
-          style: {
-            color: "#CC6699",
-          },
-        },
-        {
           skillName: "JavaScript",
           fontAwesomeClassname: "simple-icons:javascript",
           style: {
@@ -177,38 +161,10 @@ const skills = {
           },
         },
         {
-          skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
+          skillName: "Angular",
+          fontAwesomeClassname: "logos-angular",
           style: {
-            color: "#339933",
-          },
-        },
-        {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
-          style: {
-            color: "#CB3837",
-          },
-        },
-        {
-          skillName: "Yarn",
-          fontAwesomeClassname: "simple-icons:yarn",
-          style: {
-            color: "#2C8EBB",
-          },
-        },
-        {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
-          style: {
-            color: "#663399",
-          },
-        },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
+            backgroundColor: "transparent",
           },
         },
       ],
@@ -224,66 +180,38 @@ const skills = {
       ],
       softwareSkills: [
         {
-          skillName: "GCP",
-          fontAwesomeClassname: "simple-icons:googlecloud",
+          skillName: "Node.js",
+          fontAwesomeClassname: "logos-nodejs",
           style: {
-            color: "#4285F4",
+            backgroundColor: "transparent",
           },
         },
         {
-          skillName: "AWS",
-          fontAwesomeClassname: "simple-icons:amazonaws",
+          skillName: "Spring Boot",
+          fontAwesomeClassname: "logos-spring",
           style: {
-            color: "#FF9900",
+            backgroundColor: "transparent",
           },
         },
         {
-          skillName: "Azure",
-          fontAwesomeClassname: "simple-icons:microsoftazure",
+          skillName: "PHP",
+          fontAwesomeClassname: "logos-php",
           style: {
-            color: "#0089D6",
+            backgroundColor: "transparent",
           },
         },
         {
-          skillName: "Firebase",
-          fontAwesomeClassname: "simple-icons:firebase",
+          skillName: ".NET",
+          fontAwesomeClassname: "logos-dotnet",
           style: {
-            color: "#FFCA28",
-          },
-        },
-        {
-          skillName: "PostgreSQL",
-          fontAwesomeClassname: "simple-icons:postgresql",
-          style: {
-            color: "#336791",
-          },
-        },
-        {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#47A248",
-          },
-        },
-        {
-          skillName: "Docker",
-          fontAwesomeClassname: "simple-icons:docker",
-          style: {
-            color: "#1488C6",
-          },
-        },
-        {
-          skillName: "Kubernetes",
-          fontAwesomeClassname: "simple-icons:kubernetes",
-          style: {
-            color: "#326CE5",
+            backgroundColor: "transparent",
           },
         },
       ],
     },
     {
       title: "DevOps",
-      fileName: "DesignImg",
+      //fileName: "DesignImg",
       skills: [
         "⚡ Streamlining software deployment with Docker for consistent and portable applications.",
         "⚡ Automating and managing the continuous integration and delivery process with Jenkins.",
@@ -291,31 +219,24 @@ const skills = {
       ],
       softwareSkills: [
         {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
+          skillName: "Docker",
+          fontAwesomeClassname: "logos-docker",
           style: {
-            color: "#FF2BC2",
+            backgroundColor: "transparent",
           },
         },
         {
-          skillName: "Figma",
-          fontAwesomeClassname: "simple-icons:figma",
+          skillName: "Jenkins",
+          fontAwesomeClassname: "logos-jenkins",
           style: {
-            color: "#F24E1E",
+            backgroundColor: "transparent",
           },
         },
         {
-          skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
+          skillName: "SonarQube",
+          fontAwesomeClassname: "logos-sonarqube",
           style: {
-            color: "#FF7C00",
-          },
-        },
-        {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
-          style: {
-            color: "#000000",
+            backgroundColor: "transparent",
           },
         },
       ],
@@ -330,31 +251,10 @@ const skills = {
       ],
       softwareSkills: [
         {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
-          style: {
-            color: "#FF2BC2",
-          },
-        },
-        {
           skillName: "Figma",
           fontAwesomeClassname: "simple-icons:figma",
           style: {
             color: "#F24E1E",
-          },
-        },
-        {
-          skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
-          style: {
-            color: "#FF7C00",
-          },
-        },
-        {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
-          style: {
-            color: "#000000",
           },
         },
       ],
@@ -616,7 +516,7 @@ const experience = {
           company_url: "http://www.cni.tn/index.php/fr/?view=page&id=44",
           logo_path: "cni.png",
           duration: "06/2022 - 07/2022",
-          location: "Belhassen Ben Chaabane, Tunis",
+          location: "Beb El Khadhra, Tunis",
           description:
             "I have developed an employee management platform that facilitates the registration of employees. Additionally, the platform incorporates an administrative service for overseeing and controlling various aspects such as employee addition, updates, deletions, and the integration of additional services. \n I possess experience working with HTML5, CSS3, JavaScript, and PHP.",
           color: "#000000",
@@ -773,7 +673,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "Safwen.png",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
   },
@@ -781,20 +681,20 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://blogs.SafwenBarhoumi .com/",
+    link: "https://blogs.SafwenBarhoumi.com/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Address",
-    subtitle:
-      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
-    locality: "Kanodar",
-    country: "IN",
-    region: "Gujarat",
-    postalCode: "385520",
-    streetAddress: "Ambavadi vas",
+    subtitle: "Tunisia - Ariana - City El Ghazela",
+    locality: "Ariana",
+    country: "Tunisia",
+    region: "Ariana",
+    postalCode: "3100",
+    //streetAddress: "Ambavadi vas",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
+    location_map_link:
+      "https://www.google.com/maps/search/Tunisia+-+Ariana+-+City+El+Ghazela/@36.8901384,10.1808534,16z?entry=ttu",
   },
   phoneSection: {
     title: "",
