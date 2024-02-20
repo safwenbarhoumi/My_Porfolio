@@ -60,7 +60,7 @@ const socialMediaLinks = [
   }, */
   {
     name: "Gmail",
-    link: "mailto:SafwenBarhoumi 98@gmail.com",
+    link: "mailto:Safwen.barhoumi@esprit.tn.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
@@ -463,7 +463,7 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Projects, Internships and Volunteerships",
+  subtitle: "Projects and Internships ",
   description:
     "I've worked on various web and mobile development projects, enjoying my time in university, startups, and companies. Even now, I'm still having fun learning and getting better at what I do.",
   header_image_path: "experience.svg",
