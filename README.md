@@ -8,14 +8,9 @@
 <p align="center">
   <a href="[https://github.com/prettier/prettier](https://github.com/safwenbarhoumi)"></a>
   <br/>
-  <a href="[https://github.com/ashutosh1919/masterPortfolio/commits/master](https://safwenbarhoumi.github.io/My_Porfolio/)"><img alt="Maintenance" src="https://img.shields.io/badge/maintained-yes-green.svg?style=flat-square" /></a>
+  <a href="[https://github.com/ashutosh1919/masterPortfolio/commits/master](https://safwenbarhoumi.github.io/My_Porfolio/)"></a>
 </p>
 
-<p align="center"> 
-    <a href="https://ashutosh1919.github.io" target="_blank">
-    <img src="images/masterPortfolioThemes.png"></img>
-  </a>
-</p>
 
 :star: Star us on GitHub — it helps!
 
