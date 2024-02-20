@@ -6,7 +6,7 @@
 <h3 align="center"> template for Software Developers! </h3>
 
 <p align="center">
-  <a href="[https://github.com/prettier/prettier](https://github.com/safwenbarhoumi)"><img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square?style=flat-square" /></a>
+  <a href="[https://github.com/prettier/prettier](https://github.com/safwenbarhoumi)"></a>
   <br/>
   <a href="[https://github.com/ashutosh1919/masterPortfolio/commits/master](https://safwenbarhoumi.github.io/My_Porfolio/)"><img alt="Maintenance" src="https://img.shields.io/badge/maintained-yes-green.svg?style=flat-square" /></a>
 </p>
