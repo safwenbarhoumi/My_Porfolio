@@ -7,7 +7,7 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Ashutosh's Portfolio",
+  title: "Safwen_Barhoumi Portfolio",
   description:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
@@ -20,7 +20,7 @@ const seo = {
 //Home Page
 const greeting = {
   title: "Safwen Barhoumi",
-  logo_name: "AshutoshHathidara",
+  logo_name: "Safwen_Barhoumi",
   nickname: "Full stack mobile developer",
   subTitle:
     " Hello, I'm Safwen Barhoumi, a 24-year-old in my fifth year of engineering studies at ESPRIT, focusing on web and mobile development. I enjoy combining technical expertise with creativity to create digital solutions. Let's connect to create and improve the dynamic world of web and mobile development ! ",
@@ -52,12 +52,12 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
-  {
+  /* {
     name: "YouTube",
     link: "https://youtube.com/c/DevSense19",
     fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
     backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
-  },
+  }, */
   {
     name: "Gmail",
     link: "mailto:SafwenBarhoumi 98@gmail.com",
@@ -211,7 +211,7 @@ const skills = {
     },
     {
       title: "DevOps",
-      //fileName: "DesignImg",
+      fileName: "DevopsImg",
       skills: [
         "⚡ Streamlining software deployment with Docker for consistent and portable applications.",
         "⚡ Automating and managing the continuous integration and delivery process with Jenkins.",
@@ -334,7 +334,7 @@ const degrees = {
     {
       title: "ESPRIT Private Higher School of Engineering and Technology",
       subtitle: "Full Stack Develpment",
-      logo_path: "Esprit.jpg",
+      logo_path: "Esprit3.png",
       alt_name: "Esprit",
       duration: "2022 - 2024",
       descriptions: [
