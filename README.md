@@ -160,11 +160,36 @@ Therefore, this part of portfolio is not customizable. But don't worry we have a
 Now, your website is successfully deployed and you can visit it at `<your-github-username>.github.io`.  
 If you are stuck somewhere and want to observe the deployment process in depth, then please watch below video.
 
-<p align="center"> 
-    <a href="http://www.youtube.com/watch?v=IwBS39TOmpA" target="_blank">
-    <img src="http://img.youtube.com/vi/IwBS39TOmpA/0.jpg"></img>
-  </a>
-</p>
+**Steps :**
+*Step1 :*
+- Run `npm install gh-pages --save-dev`
+*Step2 :*
+ - Go to package.json and add nthis code :
+package.json :
+`
+{
+  "homepage" : https://<github username>.github.io/<repositoryname>
+}
+
+"scripts" :{
+	"start" : "............",
+	"predeploy" : "npm run build",
+	"deploy" : "gh-pages -d build",
+}
+`
+*Step3 :*
+- deploying is to enable `Github Pages` in settings of the repository and select `gh-pages` branch.
+- 
+*Step4 :*
+- Run `npm run deploy` to build and create a branch called `gh-pages`.
+- 
+*Step5 :*
+- Now, your website is successfully deployed and you can visit it at `<your-github-username>.github.io`.
+
+*Final step :*
+Now, your website is successfully deployed and you can visit it at `https://<your-github-username>.github.io/<your-username-repository>`.
+
+
 
 # Technologies used 🛠️
 
