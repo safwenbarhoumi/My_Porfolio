@@ -182,13 +182,13 @@ package.json :
 ```
 *Step3 :*
 - deploying is to enable `Github Pages` in settings of the repository and select `gh-pages` branch.
-- 
+  
 *Step4 :*
 - Run this cmd to build and create a branch called `gh-pages`:
 ```bash
 npm run deploy
-``` t
-- 
+``` 
+
 *Step5 :*
 - Now, your website is successfully deployed and you can visit it at `<your-github-username>.github.io`.
 
