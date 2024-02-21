@@ -164,7 +164,7 @@ If you are stuck somewhere and want to observe the deployment process in depth, 
 *Step1 :*
 - Run :
   ```bash
-npm install gh-pages --save-dev
+	npm install gh-pages --save-dev
   ```
 *Step2 :*
  - Go to package.json and add nthis code :
