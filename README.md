@@ -162,11 +162,14 @@ If you are stuck somewhere and want to observe the deployment process in depth, 
 
 **Steps :**
 *Step1 :*
-- Run `npm install gh-pages --save-dev`
+- Run :
+  ```bash
+   npm install gh-pages --save-dev
+  ``
 *Step2 :*
  - Go to package.json and add nthis code :
 package.json :
-`
+```bash
 {
   "homepage" : https://<github username>.github.io/<repositoryname>
 }
@@ -176,12 +179,15 @@ package.json :
 	"predeploy" : "npm run build",
 	"deploy" : "gh-pages -d build",
 }
-`
+```
 *Step3 :*
 - deploying is to enable `Github Pages` in settings of the repository and select `gh-pages` branch.
 - 
 *Step4 :*
-- Run `npm run deploy` to build and create a branch called `gh-pages`.
+- Run this cmd to build and create a branch called `gh-pages`:
+```bash
+npm run deploy
+``` t
 - 
 *Step5 :*
 - Now, your website is successfully deployed and you can visit it at `<your-github-username>.github.io`.
