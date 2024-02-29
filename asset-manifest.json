@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/My_Porfolio/static/css/main.6ae8e5e9.chunk.css",
-    "main.js": "/My_Porfolio/static/js/main.40b8de1f.chunk.js",
-    "main.js.map": "/My_Porfolio/static/js/main.40b8de1f.chunk.js.map",
+    "main.js": "/My_Porfolio/static/js/main.e8e3f401.chunk.js",
+    "main.js.map": "/My_Porfolio/static/js/main.e8e3f401.chunk.js.map",
     "runtime-main.js": "/My_Porfolio/static/js/runtime-main.dbc45f4b.js",
     "runtime-main.js.map": "/My_Porfolio/static/js/runtime-main.dbc45f4b.js.map",
     "static/js/2.d8fe390e.chunk.js": "/My_Porfolio/static/js/2.d8fe390e.chunk.js",
     "static/js/2.d8fe390e.chunk.js.map": "/My_Porfolio/static/js/2.d8fe390e.chunk.js.map",
     "index.html": "/My_Porfolio/index.html",
-    "precache-manifest.2da743a82a7c69542424deb2a3d28dc3.js": "/My_Porfolio/precache-manifest.2da743a82a7c69542424deb2a3d28dc3.js",
+    "precache-manifest.e597b39427fb896204b794161a111744.js": "/My_Porfolio/precache-manifest.e597b39427fb896204b794161a111744.js",
     "service-worker.js": "/My_Porfolio/service-worker.js",
     "static/css/main.6ae8e5e9.chunk.css.map": "/My_Porfolio/static/css/main.6ae8e5e9.chunk.css.map",
     "static/media/index.css": "/My_Porfolio/static/media/Montserrat-Regular.ee653992.ttf",
@@ -21,8 +21,8 @@
     "static/media/Flutter.png": "/My_Porfolio/static/media/Flutter.624cc028.png",
     "static/media/IsetKr.png": "/My_Porfolio/static/media/IsetKr.fdef18c9.png",
     "static/media/Kotlin.jpg": "/My_Porfolio/static/media/Kotlin.97f878ff.jpg",
-    "static/media/Safwen.png": "/My_Porfolio/static/media/Safwen.92260425.png",
-    "static/media/Safwen2.png": "/My_Porfolio/static/media/Safwen2.cddd75e8.png",
+    "static/media/Safwen.png": "/My_Porfolio/static/media/Safwen.e3b170e7.png",
+    "static/media/Safwen3.png": "/My_Porfolio/static/media/Safwen3.92260425.png",
     "static/media/Swift.png": "/My_Porfolio/static/media/Swift.152ee5ce.png",
     "static/media/address_image.svg": "/My_Porfolio/static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "/My_Porfolio/static/media/animated_ashutosh.eaf02c2d.png",
@@ -70,6 +70,6 @@
     "static/js/runtime-main.dbc45f4b.js",
     "static/js/2.d8fe390e.chunk.js",
     "static/css/main.6ae8e5e9.chunk.css",
-    "static/js/main.40b8de1f.chunk.js"
+    "static/js/main.e8e3f401.chunk.js"
   ]
 }

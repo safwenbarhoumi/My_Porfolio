@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bff9f6d561814c7b8ff2b24fe36547e7",
+    "revision": "2b11bd395b7182a5a71dad76dee2be1f",
     "url": "/My_Porfolio/index.html"
   },
   {
-    "revision": "2bdbfc38b3babc4d13cd",
+    "revision": "e329fb9819f34e48a6b2",
     "url": "/My_Porfolio/static/css/main.6ae8e5e9.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/My_Porfolio/static/js/2.d8fe390e.chunk.js"
   },
   {
-    "revision": "2bdbfc38b3babc4d13cd",
-    "url": "/My_Porfolio/static/js/main.40b8de1f.chunk.js"
+    "revision": "e329fb9819f34e48a6b2",
+    "url": "/My_Porfolio/static/js/main.e8e3f401.chunk.js"
   },
   {
     "revision": "0e3409bfb7abd8a20296",
@@ -88,12 +88,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/My_Porfolio/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "922604252eb8106b825f6c1ba589aa79",
-    "url": "/My_Porfolio/static/media/Safwen.92260425.png"
+    "revision": "e3b170e71942ec5446b5a5254fb5c362",
+    "url": "/My_Porfolio/static/media/Safwen.e3b170e7.png"
   },
   {
-    "revision": "cddd75e82bbc8cad12cc18aee5fb53d5",
-    "url": "/My_Porfolio/static/media/Safwen2.cddd75e8.png"
+    "revision": "922604252eb8106b825f6c1ba589aa79",
+    "url": "/My_Porfolio/static/media/Safwen3.92260425.png"
   },
   {
     "revision": "152ee5cecc72eb342ea7fd8df9392988",
