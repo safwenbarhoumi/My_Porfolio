@@ -1,6 +1,4 @@
-<p align="center"> 
-    <img src="" align="center" height="150"></img>
-</p>
+
 
 <h1 align="center"> My Portfolio 🔥 </h1> 
 <h3 align="center"> template for Software Developers! </h3>
